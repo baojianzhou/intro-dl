@@ -341,4 +341,4 @@ def test_example_3():
 
 
 if __name__ == '__main__':
-    test_example_3()
+    test_example_2()
